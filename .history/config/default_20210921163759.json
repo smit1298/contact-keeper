@@ -1,0 +1,4 @@
+ {
+     "monbo"
+     "mongoURI": "mongodb+srv://smit:<password>@contactkeeper.sxgc1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+ }
