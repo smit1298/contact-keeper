@@ -1,0 +1,4 @@
+ {
+     "mongoURI": "mongodb+srv://smit:Sammayrian1@contactkeeper.sxgc1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+     "mongoURI": "mongodb+srv://smit:<password>@contactkeeper.sxgc1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+ }
