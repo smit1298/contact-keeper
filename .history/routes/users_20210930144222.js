@@ -3,7 +3,7 @@ const bcrypt = require('bcryptjs');
 const router = express.Router();
 const jwt = require("jsonwebtoken");
 const config = require("config");
-const { check, validationResult } = require('express-validator');
+const { check, validationResult } = require('express-validatork');
 
 const User = require('../models/User')
 
@@ -64,4 +64,3 @@ router.post('/', [
 );
 
 module.exports = router;
-    
